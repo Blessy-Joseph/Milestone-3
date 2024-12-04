@@ -12,7 +12,7 @@ import urllib
 
 # Connect the database
 
-MONGODB_CONNECTION_STRING = "mongodb+srv://athiratv98:" +urllib.parse.quote("Rana@100408!") +"@cluster0.p0k5x.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+MONGODB_CONNECTION_STRING = "mongodb+srv://blessy@14:" +urllib.parse.quote("Bless1471") +"@cluster0.p0k5x.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 # Check if connection string is configured
 if MONGODB_CONNECTION_STRING:
